@@ -1,0 +1,8 @@
+Prove: a polynomial number of splits will generate all lexical entries.
+Implement: generation
+
+random derivations
+intersect with bigram lm
+lexicalized nonterminals
+
+send lexicon
